@@ -48,6 +48,5 @@ terraform.tfstate
 terraform.tfstate.backup
 *.tfvars
 tmp.json
-variables.tf
 
 test/extracted_images/
