@@ -46,6 +46,7 @@ __pycache__
 *.zip
 terraform.tfstate
 terraform.tfstate.backup
+*.tfvars
 tmp.json
 variables.tf
 
